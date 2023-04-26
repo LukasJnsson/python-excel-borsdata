@@ -3,7 +3,7 @@
 **`API Client for the Borsdata API with Python, openpyxl and Excel`**
 
 
-The client fetches the annual reports for all companies listed on OMX Stockholm Large and Mid Cap and and inserts the desired key figures into an Excel file (.xlsx). Open the file 'borsdata.xlsx' for a preview of the Excel file
+The client fetches the annual reports for all companies listed on OMX Stockholm Large and Mid Cap and inserts the desired key figures into an Excel file (.xlsx). Open the file 'borsdata.xlsx' for a preview of the Excel file
 
 
 ***`Skills`***
