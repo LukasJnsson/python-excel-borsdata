@@ -1,9 +1,9 @@
 <div align="center">
 
-**`API Client for the Borsdata API with Python, openpyxl and Excel`**
+**`Python script that fetch data from the Börsdata API, with Python, openpyxl and Excel`**
 
 
-The client fetches the annual reports for all companies listed on OMX Stockholm Large and Mid Cap and inserts the desired key figures into an Excel file (.xlsx). Open the file 'borsdata.xlsx' for a preview of the Excel file
+Python script that fetches the annual reports for all companies listed on OMX Stockholm Large and Mid Cap and inserts the desired key figures into an Excel file (.xlsx). Open the file 'borsdata.xlsx' for a preview of the Excel file
 
 
 ***`Skills`***
@@ -13,6 +13,12 @@ The client fetches the annual reports for all companies listed on OMX Stockholm 
 <img alt="Excel" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 
 <br/>
+
+
+### Create .env, add the API key from the Börsdata API
+```sh
+API_KEY=
+```
 
 ## Execute
 ```sh
