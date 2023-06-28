@@ -14,6 +14,12 @@ The client fetches the annual reports for all companies listed on OMX Stockholm 
 
 <br/>
 
+
+### Create .env, add the API key from the Börsdata API
+```sh
+API_KEY=
+```
+
 ## Execute
 ```sh
 python3 app.py
